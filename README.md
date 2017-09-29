@@ -2,6 +2,7 @@
 > 🃏 Best game ever! *Not my work*
 
 Original: http://lmgtfy.com/?q=Solitaire
+
 This Repo: https://makixx.github.io/google-solitaire/standalone.html
 
 ## cURL'd links:
