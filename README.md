@@ -1,1 +1,9 @@
-# google-solitaire
+# Google Solitaire
+> Best game ever! *Not my work*
+
+## CuRL'd links:
+https://www.google.com/logos/fnbx/solitaire/standalone.html
+https://www.google.com/logos/fnbx/solitaire/solitaire_compiled.2.js
+https://www.google.com/logos/fnbx/solitaire/default.css
+https://www.google.com/logos/fnbx/solitaire/mobile_portrait.css
+https://www.google.com/logos/fnbx/solitaire/ipad.css
