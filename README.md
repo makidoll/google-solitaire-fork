@@ -1,9 +1,9 @@
 # Google Solitaire
 > 🃏 Best game ever! *Not my work*
 
-Original: http://lmgtfy.com/?q=Solitaire
+Original: https://google.com/search?q=Solitaire
 
-This Repo: https://makixx.github.io/google-solitaire/standalone.html
+This Repo: https://makixx.github.io/google-solitaire-fork/standalone.html
 
 ## cURL'd links:
 ```
